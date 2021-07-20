@@ -3,7 +3,7 @@
 
   ## Description:
 
-    This is a full stack app that is deployed on heroku. It is a note taking app. The user can see a list of notes they have previously submitted. They will be able to reference them and also delete them. New notes can be submitted by clicking the "+" and then filling the note title and note text field. Clicking the floppy saves the note. Clicking the trashcan next to the name removes it. The notes are saved onto a db.json file.
+This is a full stack app that is deployed on heroku. It is a note taking app. The user can see a list of notes they have previously submitted. They will be able to reference them and also delete them. New notes can be submitted by clicking the "+" and then filling the note title and note text field. Clicking the floppy saves the note. Clicking the trashcan next to the name removes it. The notes are saved onto a db.json file.
 
   ## Table of Contents:
   * [Description](#Description)
